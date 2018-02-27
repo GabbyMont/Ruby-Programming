@@ -1,0 +1,14 @@
+if 4 < 12
+	puts "That is correct"
+end
+
+puts "That is correct" if 40 < 12
+
+puts "I like cheese!" unless 50 < 20
+
+if 4 < 20 
+	puts "Yes it is, isn't it?"
+else puts "No it isn't."
+end
+
+puts 400 < 200 ? "Yes it is." : "No it is not."
